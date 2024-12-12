@@ -1,5 +1,10 @@
-Providers of A specific App!
+Providers of a Specific App
 
-1.) May broke at any time
+1. May break at any time.
 
-2.) Aren't Maintained 
+
+2. Are not maintained.
+
+Link : https://github.com/OtakuVadER/Providers
+
+
