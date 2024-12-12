@@ -1,9 +1,3 @@
-<a href="https://discord.gg/xw9kfHRB"><img src="https://img.shields.io/discord/1309159394461614130?label=discord&labelColor=7289da&color=2c2f33&style=for-the-badge" alt="Discord"></a>
-
-#### List of available providers:
-| Name          | Status    |
-| :-----------  | :-------  |
-| SuperStream | 🟢 OK |
-| FlixHQ | 🔴 DOWN |
-| Stremio | 🟢 OK |
-| Sudo-Flix | 🟢 OK |
+####Providers of A specific App!
+1.) May broke at any time
+2.) Aren't Maintained 
