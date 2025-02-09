@@ -51,13 +51,13 @@ subprojects {
          * */
         author(
             name = "abrogani",
-            socialLink = "https://github.com/abrogani",
-            image = "https://github.com/abrogani.png"
+            socialLink = "https://github.com/OtakuVadER",
+            image = "https://github.com/OtakuVadER.png"
         )
         // author( ... )
         // author( ... )
 
-        setRepository("https://github.com/abrogani/automatic-sniffle")
+        setRepository("https://github.com/OtakuVadER/Providers")
     }
 
     android {
