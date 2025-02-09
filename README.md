@@ -8,3 +8,11 @@ Providers of a Specific App
 Link : https://github.com/OtakuVadER/Providers
 
 
+
+#### List of available providers:
+| Name          | Status    |
+| :-----------  | :-------  |
+| FlixHQ | 🔴 DOWN |
+| Sudo-Flix | 🟢 OK |
+| Stremio | 🟢 OK |
+| SuperStream | 🟢 OK |
