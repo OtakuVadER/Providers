@@ -50,7 +50,7 @@ subprojects {
          * own github profile link
          * */
         author(
-            name = "abrogani",
+            name = "the.vader",
             socialLink = "https://github.com/OtakuVadER",
             image = "https://github.com/OtakuVadER.png"
         )
