@@ -1,4 +1,5 @@
-<a href="https://discord.gg/xw9kfHRB"><img src="https://img.shields.io/discord/1309159394461614130?label=discord&labelColor=7289da&color=2c2f33&style=for-the-badge" alt="Discord"></a>
+Personal Providers!
+Fork of Abrogani. All the Credits of this repo goes to him!
 
 #### List of available providers:
 | Name          | Status    |
